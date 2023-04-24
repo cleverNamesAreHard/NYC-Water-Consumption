@@ -2,6 +2,7 @@
 *.env
 data/
 .artifacts/
+query_output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
